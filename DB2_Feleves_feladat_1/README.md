@@ -1,2 +1,2 @@
-felhasználó:asd
+felhasználó:asd\
 jelszó:asd
